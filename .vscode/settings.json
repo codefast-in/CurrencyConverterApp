@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 16
+}
